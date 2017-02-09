@@ -3,7 +3,7 @@
     <story>
         <identification>
             <ifid>C3450456-99F9-4EAB-8C87-11D327DBBF76</ifid>
-            <format>glulx</format>
+            <format>zcode</format>
         </identification>
         <bibliographic>
             <title>Assignement1</title>
@@ -18,7 +18,7 @@
         <releases>
             <attached>
                 <release>
-                    <releasedate>2017-02-07</releasedate>
+                    <releasedate>2017-02-08</releasedate>
                     <version>1</version>
                     <compiler>Inform 7</compiler>
                     <compilerversion>6M62</compilerversion>
@@ -28,12 +28,12 @@
         <colophon>
             <generator>Inform 7</generator>
             <generatorversion>6M62</generatorversion>
-            <originated>2017-02-07</originated>
+            <originated>2017-02-08</originated>
         </colophon>
-        <glulx>
-            <serial>170207</serial>
+        <zcode>
+            <serial>170208</serial>
             <release>1</release>
             <compiler>Inform 7 build 6M62</compiler>
-        </glulx>
+        </zcode>
     </story>
 </ifindex>
